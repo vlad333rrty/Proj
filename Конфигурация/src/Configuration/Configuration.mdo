@@ -35,5 +35,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Подсистема</subsystems>
+  <subsystems>Subsystem.ваы</subsystems>
   <bots>Bot.Бот</bots>
 </mdclass:Configuration>
