@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Bot xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f165f84f-9f8d-4934-868e-2cf65b09661d">
+  <name>Бот</name>
+  <synonym>
+    <key>ru</key>
+    <value>Бот</value>
+  </synonym>
+  <predefined>true</predefined>
+</mdclass:Bot>
