@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>Подсистема</value>
   </synonym>
-  <comment>ws</comment>
+  <comment>228_133714sw</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
