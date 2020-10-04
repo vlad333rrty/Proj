@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>Подсистема</value>
   </synonym>
-  <comment>q2</comment>
+  <comment>I_fell_in_love</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
