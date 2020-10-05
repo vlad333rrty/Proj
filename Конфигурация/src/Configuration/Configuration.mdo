@@ -34,5 +34,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.Подсистема</subsystems>
+  <subsystems>Subsystem.lowe</subsystems>
 </mdclass:Configuration>
