@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>now</value>
   </synonym>
-  <comment>ousssrsks</comment>
+  <comment>ousks</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
