@@ -3,9 +3,9 @@
   <name>Подсистема</name>
   <synonym>
     <key>ru</key>
-    <value>Таганка</value>
+    <value>now</value>
   </synonym>
-  <comment>like</comment>
+  <comment>taganka</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
