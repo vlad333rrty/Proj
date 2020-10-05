@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>now</value>
   </synonym>
-  <comment>our</comment>
+  <comment>ours</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
