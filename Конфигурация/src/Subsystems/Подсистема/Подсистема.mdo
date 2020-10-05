@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>Таганка</value>
   </synonym>
-  <comment>What_is_love</comment>
+  <comment>dont hurt me</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
