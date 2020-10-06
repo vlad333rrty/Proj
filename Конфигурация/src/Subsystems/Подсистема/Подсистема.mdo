@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>now</value>
   </synonym>
-  <comment>happiness</comment>
+  <comment>happiness_for_all</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
