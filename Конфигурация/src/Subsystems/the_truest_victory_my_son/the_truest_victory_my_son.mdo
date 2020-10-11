@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="45ff66ac-0e7d-4f4b-bfd9-143ebe66f0d1">
-  <name>the_truest_victory</name>
+  <name>the_truest_victory_my_son</name>
   <synonym>
     <key>ru</key>
-    <value>The truest victory</value>
+    <value>The truest victory my son</value>
   </synonym>
   <comment>let_it_be</comment>
   <includeHelpInContents>true</includeHelpInContents>
