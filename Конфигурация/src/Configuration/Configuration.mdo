@@ -34,6 +34,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.Love</subsystems>
+  <subsystems>Subsystem.I_prefer</subsystems>
   <subsystems>Subsystem.Подсистема1</subsystems>
 </mdclass:Configuration>
