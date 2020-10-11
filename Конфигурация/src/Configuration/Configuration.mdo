@@ -34,6 +34,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.I_prefer</subsystems>
+  <subsystems>Subsystem.I_prefer_being_lucky</subsystems>
   <subsystems>Subsystem.stirring</subsystems>
 </mdclass:Configuration>
