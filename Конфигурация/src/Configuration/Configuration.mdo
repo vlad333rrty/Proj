@@ -35,5 +35,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Love_you</subsystems>
-  <subsystems>Subsystem.like_it</subsystems>
+  <subsystems>Subsystem.glory</subsystems>
 </mdclass:Configuration>
