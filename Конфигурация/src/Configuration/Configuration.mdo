@@ -35,5 +35,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Love_you</subsystems>
-  <subsystems>Subsystem.yahoo</subsystems>
+  <subsystems>Subsystem.gloty</subsystems>
 </mdclass:Configuration>
