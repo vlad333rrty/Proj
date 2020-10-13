@@ -35,6 +35,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.GG</subsystems>
-  <subsystems>Subsystem.hapiness_is_the_truth</subsystems>
+  <subsystems>Subsystem.I_want</subsystems>
   <catalogs>Catalog.Справочник</catalogs>
 </mdclass:Configuration>
