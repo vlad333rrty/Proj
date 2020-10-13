@@ -34,7 +34,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.wp</subsystems>
+  <subsystems>Subsystem.Edge_of_tomorrow</subsystems>
   <subsystems>Subsystem.I_want</subsystems>
   <catalogs>Catalog.Справочник</catalogs>
 </mdclass:Configuration>
