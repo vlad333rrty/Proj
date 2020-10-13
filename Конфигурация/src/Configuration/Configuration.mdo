@@ -35,6 +35,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Edge_of_tomorrow</subsystems>
-  <subsystems>Subsystem.I_want</subsystems>
+  <subsystems>Subsystem.I_want_to_be_happy</subsystems>
   <catalogs>Catalog.Справочник</catalogs>
 </mdclass:Configuration>
