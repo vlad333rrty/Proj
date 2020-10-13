@@ -34,6 +34,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.Love_you</subsystems>
+  <subsystems>Subsystem.Come_on</subsystems>
   <subsystems>Subsystem.glorous</subsystems>
 </mdclass:Configuration>
