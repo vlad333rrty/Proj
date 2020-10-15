@@ -35,6 +35,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.Edge_of_tomorrow</subsystems>
-  <subsystems>Subsystem.What_does_it_mean</subsystems>
+  <subsystems>Subsystem.sorrow</subsystems>
   <catalogs>Catalog.Справочник</catalogs>
 </mdclass:Configuration>
