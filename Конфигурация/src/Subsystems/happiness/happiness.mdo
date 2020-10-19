@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="45ff66ac-0e7d-4f4b-bfd9-143ebe66f0d1">
-  <name>happiness</name>
+  <name>happiness_is_alive</name>
   <synonym>
     <key>ru</key>
     <value>I want to be happy</value>
