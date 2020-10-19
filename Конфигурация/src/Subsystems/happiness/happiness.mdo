@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I want to be happy</value>
   </synonym>
-  <comment>let me know</comment>
+  <comment>how_does _it_feel</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
