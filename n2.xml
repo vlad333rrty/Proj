@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Format_version="2.0">
+    <MergeSettings>
+        <Node Key="$$Root$$">
+            <Node Key="subsystems">
+                <Node Key="Edge_of_tomorrow:Edge_of_tomorrow:Edge_of_tomorrow">
+                    <Node Key="comment" MergeRule="GetFromOther">
+                    </Node>
+                </Node>
+            </Node>
+        </Node>
+    </MergeSettings>
+</Settings>
