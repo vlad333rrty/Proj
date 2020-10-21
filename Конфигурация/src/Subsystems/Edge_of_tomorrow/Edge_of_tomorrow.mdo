@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>is_a_good_film</value>
   </synonym>
-  <comment>for_sure</comment>
+  <comment>hura</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
