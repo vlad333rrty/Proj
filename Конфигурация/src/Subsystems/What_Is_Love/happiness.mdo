@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>baby,don't_hurt_me</value>
   </synonym>
-  <comment>don't_hurt_me</comment>
+  <comment>don't_hurt_me_no_more</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
