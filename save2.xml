@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Settings Format_version="2.0">
+    <MergeSettings>
+        <Node Key="$$Root$$">
+            <Node Key="catalogs">
+                <Node Key="Справочник:Справочник:NONE">
+                    <Node Key="producedTypes" MergeRule="GetFromOther">
+                    </Node>
+                    <Node Key="uuid" MergeRule="DoNotMerge">
+                    </Node>
+                </Node>
+            </Node>
+        </Node>
+    </MergeSettings>
+</Settings>
