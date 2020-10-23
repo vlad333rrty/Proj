@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I_need_to_know_now</value>
   </synonym>
-  <comment>hello_there</comment>
+  <comment>mega</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
