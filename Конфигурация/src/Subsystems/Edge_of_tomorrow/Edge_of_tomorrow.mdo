@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>When_cowboy</value>
   </synonym>
-  <comment>trades_his_spears_for_wingss_sd</comment>
+  <comment>trades_his_spears_for_wings</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
