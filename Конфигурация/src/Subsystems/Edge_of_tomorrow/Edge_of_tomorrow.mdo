@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I_need_to_know_now</value>
   </synonym>
-  <comment>can_you_love_me_again</comment>
+  <comment>hello_there</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
