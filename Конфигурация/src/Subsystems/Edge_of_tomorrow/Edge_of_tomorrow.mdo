@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I_need_to_know_now</value>
   </synonym>
-  <comment>for_wings</comment>
+  <comment>trades_his_spears_for_wings</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
