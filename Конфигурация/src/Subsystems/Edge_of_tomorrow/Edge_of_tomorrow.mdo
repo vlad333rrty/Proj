@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I_need_to_know_now</value>
   </synonym>
-  <comment>ddd</comment>
+  <comment>trades_his_spears</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
