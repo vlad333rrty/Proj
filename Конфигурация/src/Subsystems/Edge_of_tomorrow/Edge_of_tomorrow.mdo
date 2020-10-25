@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I_am_the_storm</value>
   </synonym>
-  <comment>Cassablanca)</comment>
+  <comment>Cassablanca</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
