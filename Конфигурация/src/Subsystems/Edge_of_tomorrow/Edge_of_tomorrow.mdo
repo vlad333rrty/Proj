@@ -3,11 +3,9 @@
   <name>Edge_of_tomorrow</name>
   <synonym>
     <key>ru</key>
-    <value>I_am_the_storm</value>
+    <value>never_regret</value>
   </synonym>
-
   <comment>Cassablanca</comment>
-
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
