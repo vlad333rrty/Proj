@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8cd846e6-4b4b-489c-be89-b96a02edea56">
-  <name>Конфигурация</name>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="adabb52c-9aa5-4af9-9415-6554cb316ad8">
+  <name>Конфигурация3</name>
   <synonym>
     <key>ru</key>
-    <value>Try</value>
+    <value>Конфигурация3</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="d8a523e6-7808-4e17-afb0-c1cc479ca8c3"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="51953981-926d-4ae6-9c9e-9bd794cd83b2"/>
@@ -26,7 +26,7 @@
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <compatibilityMode>8.3.17</compatibilityMode>
-  <languages uuid="6a0858c7-e285-4765-88d8-02eb7d140b6a">
+  <languages uuid="19f5e1db-b34a-4258-ba0f-7ccd64f49af3">
     <name>Русский</name>
     <synonym>
       <key>ru</key>
@@ -36,5 +36,6 @@
   </languages>
   <subsystems>Subsystem.happiness</subsystems>
   <subsystems>Subsystem.Edge_of_tomorrow</subsystems>
+  <subsystems>Subsystem.A_lot_of_work_to_do</subsystems>
   <catalogs>Catalog.Справочник</catalogs>
 </mdclass:Configuration>
