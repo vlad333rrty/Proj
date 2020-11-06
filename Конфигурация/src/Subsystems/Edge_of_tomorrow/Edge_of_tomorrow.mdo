@@ -3,9 +3,9 @@
   <name>Edge_of_tomorrow</name>
   <synonym>
     <key>ru</key>
-    <value>kek_mm</value>
+    <value>hello</value>
   </synonym>
-  <comment>trades_his_spears_for_wingsw</comment>
+  <comment>happiness_for_all</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
