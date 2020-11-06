@@ -37,5 +37,6 @@
   <subsystems>Subsystem.happiness</subsystems>
   <subsystems>Subsystem.A_lot_of_work_to_do</subsystems>
   <subsystems>Subsystem.Edge_of_tomorrow</subsystems>
+  <subsystems>Subsystem.Test</subsystems>
   <catalogs>Catalog.Справочник</catalogs>
 </mdclass:Configuration>
