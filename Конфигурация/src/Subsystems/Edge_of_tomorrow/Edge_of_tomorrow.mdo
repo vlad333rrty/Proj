@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I_love_you_like_a_love_song</value>
   </synonym>
-  <comment>Dug_machine</comment>
+  <comment>Luck</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
