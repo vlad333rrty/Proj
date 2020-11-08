@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I_u</value>
   </synonym>
-  <comment>Whisper_of_tr</comment>
+  <comment>Whisper</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
