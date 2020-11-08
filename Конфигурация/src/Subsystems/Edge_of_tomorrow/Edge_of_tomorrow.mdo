@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>I_love_you_like_dota2</value>
   </synonym>
-  <comment>Mem_machine</comment>
+  <comment>Mem_machine_</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
