@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>This_is_how_it_works</value>
   </synonym>
-  <comment>Films_and_u</comment>
+  <comment>And_here_we_go</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
