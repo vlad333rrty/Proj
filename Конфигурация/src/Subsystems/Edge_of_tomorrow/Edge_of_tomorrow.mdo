@@ -3,14 +3,9 @@
   <name>Edge_of_tomorrow</name>
   <synonym>
     <key>ru</key>
-    <value>Yoe_are_more</value>
+    <value>Yoe_are_more_than</value>
   </synonym>
   <comment>for_science_you_monster</comment>
   <includeHelpInContents>true</includeHelpInContents>
-  <help>
-    <pages>
-      <lang>ru</lang>
-    </pages>
-  </help>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
