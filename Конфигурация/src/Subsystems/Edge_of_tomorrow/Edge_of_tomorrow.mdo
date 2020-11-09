@@ -7,5 +7,10 @@
   </synonym>
   <comment>for_science_you_monster</comment>
   <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
