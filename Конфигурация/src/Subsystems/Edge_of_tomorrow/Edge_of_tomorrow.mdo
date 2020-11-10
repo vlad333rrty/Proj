@@ -3,9 +3,9 @@
   <name>Edge_of_tomorrow</name>
   <synonym>
     <key>ru</key>
-    <value>Yoe_are_more_than</value>
+    <value>It_has_been_a_long_time</value>
   </synonym>
-  <comment>for_science_you_monster</comment>
+  <comment>how_have_you_been</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
