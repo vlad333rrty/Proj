@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>23</value>
   </synonym>
-  <comment>for_science_you_monster</comment>
+  <comment>how_have_you_been</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
