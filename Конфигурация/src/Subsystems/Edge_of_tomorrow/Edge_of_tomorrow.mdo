@@ -3,9 +3,14 @@
   <name>Edge_of_tomorrow</name>
   <synonym>
     <key>ru</key>
-    <value>er</value>
+    <value>err</value>
   </synonym>
   <comment>how_have_you_been</comment>
   <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
