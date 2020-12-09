@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>The_truest_victorys</value>
   </synonym>
-  <comment>my_son_is</comment>
+  <comment>my_son_is_p</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
