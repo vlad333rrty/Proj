@@ -5,7 +5,7 @@
     <key>ru</key>
     <value>It_has_been_a_long_time</value>
   </synonym>
-  <comment>how_have_you_been_q</comment>
+  <comment>how_have_you_been</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
