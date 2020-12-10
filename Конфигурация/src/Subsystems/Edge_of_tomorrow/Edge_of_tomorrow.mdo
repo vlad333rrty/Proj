@@ -3,9 +3,9 @@
   <name>Edge_of_tomorrow</name>
   <synonym>
     <key>ru</key>
-    <value>www</value>
+    <value>www_</value>
   </synonym>
-  <comment>for_science_you_monster</comment>
+  <comment>for_science_you_monster</gcomment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
