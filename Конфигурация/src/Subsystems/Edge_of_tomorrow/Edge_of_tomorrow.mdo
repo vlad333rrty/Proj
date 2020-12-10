@@ -5,7 +5,5 @@
     <key>ru</key>
     <value>www_</value>
   </synonym>
-  <comment>for_science_you_monster</gcomment>
-  <includeHelpInContents>true</includeHelpInContents>
-  <includeInCommandInterface>true</includeInCommandInterface>
+  <comment>qwx</comment>
 </mdclass:Subsystem>
