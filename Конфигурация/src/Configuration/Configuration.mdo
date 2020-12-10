@@ -38,5 +38,4 @@
   <subsystems>Subsystem.Edge_of_tomorrow</subsystems>
   <subsystems>Subsystem.A_lot_of_work_to_do</subsystems>
   <catalogs>Catalog.Справочник</catalogs>
-  <catalogs>Catalog.Справочник1</catalogs>
 </mdclass:Configuration>

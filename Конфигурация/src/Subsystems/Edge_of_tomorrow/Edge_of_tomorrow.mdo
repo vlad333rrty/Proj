@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8816a5bb-557d-4991-9b1c-3eaa613c1552">
   <name>Edge_of_tomorrow</name>
+  <synonym>
+    <key>ru</key>
+    <value>It_has_been_a_long_time</value>
+  </synonym>
+  <comment>how_have_you_been</comment>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
