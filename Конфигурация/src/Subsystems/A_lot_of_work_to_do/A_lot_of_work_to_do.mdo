@@ -3,9 +3,9 @@
   <name>A_lot_of_work_to_do</name>
   <synonym>
     <key>ru</key>
-    <value>The_truest_victorys</value>
+    <value>The_truest_victory</value>
   </synonym>
-  <comment>my_son_is_p</comment>
+  <comment>my_son_is</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
