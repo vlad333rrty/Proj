@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 qwertwwqwdd
+=======
+qwertwwqwss
+>>>>>>> refs/remotes/origin/Second
