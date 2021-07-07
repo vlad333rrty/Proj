@@ -6,6 +6,7 @@
     <value>It_has_been_a_long_time</value>
   </synonym>
   <comment>sqxxessw</comment>
+  <comment>asd</comment>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
 </mdclass:Subsystem>
